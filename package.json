@@ -1,0 +1,16 @@
+{
+  "name": "askini",
+  "version": "0.0.2",
+  "description": "Askini: Ask anything, anywhere and anytime",
+  "main": "askini.js",
+  "repository": "git@github.com:askini/askini.git",
+  "author": "Haroune Mohammedi <mohammedi.haroun@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "comment system"
+  ],
+  "bugs": "https://github.com/askini/askini/issues",
+  "dependencies": {
+    "plyr": "^3.6.2"
+  }
+}
